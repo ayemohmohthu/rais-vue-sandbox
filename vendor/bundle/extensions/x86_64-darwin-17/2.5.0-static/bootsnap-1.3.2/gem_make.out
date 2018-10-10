@@ -1,0 +1,15 @@
+current directory: /Users/ayemohmohthu/localPj/rais-vue-sandbox/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/ayemohmohthu/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181009-41475-1q36o1x.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ayemohmohthu/localPj/rais-vue-sandbox/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ayemohmohthu/localPj/rais-vue-sandbox/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ayemohmohthu/localPj/rais-vue-sandbox/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20181009-41475-1731sra/bootsnap

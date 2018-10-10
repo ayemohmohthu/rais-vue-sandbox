@@ -1,0 +1,15 @@
+current directory: /Users/ayemohmohthu/localPj/rais-vue-sandbox/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/ayemohmohthu/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20181009-41475-1hhw4vy.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ayemohmohthu/localPj/rais-vue-sandbox/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/ayemohmohthu/localPj/rais-vue-sandbox/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ayemohmohthu/localPj/rais-vue-sandbox/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20181009-41475-w5bimc
